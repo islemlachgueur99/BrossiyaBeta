@@ -1,0 +1,9 @@
+{
+           "license_plate_number": "01271511013",
+            "time_of_violation": "23:42:31",
+            "coordinatesGPS": "34.638441, -1.329330",
+            "location_address": "JMQC+97W Sebdou",
+            "date_of_violation": "2024-05-04",
+            "type_infraction": "Violating a traffic light",
+            "id_detctor": "cam02"
+  }
