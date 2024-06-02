@@ -14,7 +14,7 @@ export async function POST(req) {
     console.log("connect to data base ");
     // Access your MongoDB Atlas database and the  collections
 
-    const database = client.db("projetislem");
+    const database = client.db("BrossiyqBeta");
     const peopleCollection = database.collection("people");
     const infractionsCollection = database.collection("infractions");
     // Retrieve the user's first name and last name from the request object
