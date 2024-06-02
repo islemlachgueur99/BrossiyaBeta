@@ -8,7 +8,7 @@ export async function POST(req) {
     await client.connect();
     console.log("Connected to database");
 
-    const database = client.db("projetislem");
+    const database = client.db("BrossiyqBeta");
     const infractionsCollection = database.collection("infractions");
 
     const { id_of_infraction } = await req.json();
